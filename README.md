@@ -1,0 +1,2 @@
+# GoLangToCopy
+GoLangToCopy
